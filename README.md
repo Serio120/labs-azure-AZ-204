@@ -1,2 +1,2 @@
 # labs-azure-AZ-204
-Laboratorios con suscripción apadrinada
+<!-- Laboratorios con suscripción apadrinada -->
