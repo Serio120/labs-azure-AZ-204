@@ -4,4 +4,4 @@
 
 [MEMO](git_cheat_sheets.jpeg)
 
-![not upload](git_cheat_sheets.jpeg)
+![not uploaded](git_cheat_sheets.jpeg)
